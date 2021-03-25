@@ -19,7 +19,7 @@ The program is similar to the "Rufus" program in which we can also format the US
 
 # Photo Formatting Hard Drive
 I didn't press YES further because I'm using the D drive:
+![Zrzut ekranu (28)](https://user-images.githubusercontent.com/80784394/112444864-c5c63980-8d4e-11eb-8973-bb01b9807917.png)
 ![Zrzut ekranu (29)](https://user-images.githubusercontent.com/80784394/112444857-c4950c80-8d4e-11eb-84a2-784a3e9609a1.png)
 ![Zrzut ekranu (30)](https://user-images.githubusercontent.com/80784394/112444863-c52da300-8d4e-11eb-8c87-7d390cf7b6a4.png)
-![Zrzut ekranu (28)](https://user-images.githubusercontent.com/80784394/112444864-c5c63980-8d4e-11eb-8973-bb01b9807917.png)
 
