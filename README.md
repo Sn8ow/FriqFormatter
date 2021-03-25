@@ -6,6 +6,7 @@ Download In Releases or Main Website: https://milekdex.wixsite.com/friqformatter
 This is how the program works for 2 years and we even tested 400 Pendrives and 213 SSD and HDD drives. 
 The program will definitely work and it will work forever.
 The program is similar to the "Rufus" program in which we can also format the USB. In our program, we have added USB, HDD and SDD formatting.
+Go to # Donation for new updates
 
 # Error 
 1. Windows XP disk D: sometimes it doesn't I'm fix in new version
