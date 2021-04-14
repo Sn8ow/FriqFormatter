@@ -1,6 +1,10 @@
 # FriqFormatter
 FriqFormatter - Easy Formatter To Format USB Stick Or Hard Drives. 
-Official website: https://milekdex.wixsite.com/friqformatter
+<br/>
+Official Website:
+<a href="https://milekdex.wixsite.com/friqformatter">FriqFormatter Website</a>.
+ <br/>
+ <br/>
 
 # Working ?
 This is how the program works for 2 years and we even tested 400 Pendrives and 213 SSD and HDD drives. 
